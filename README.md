@@ -5,22 +5,9 @@ This library is a continuation of [react-native-iphone-x-helper](https://github.
 ## Installation
 
 ```sh
-yarn add react-native-iphone-helper
+yarn add @dsdev/react-native-iphone-helper
 ```
 
-<!-- ## Usage
-
-```js
-import { multiply } from "react-native-iphone-helper";
-
-// ...
-
-const result = await multiply(3, 7);
-```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow. -->
 
 ## License
 

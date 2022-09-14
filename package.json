@@ -1,6 +1,6 @@
 {
-  "name": "react-native-iphone-helper",
-  "version": "0.1.0",
+  "name": "@dsdev/react-native-iphone-helper",
+  "version": "1.0.0",
   "description": "test",
   "main": "src/index",
   "react-native": "src/index",
