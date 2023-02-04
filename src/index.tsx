@@ -2,7 +2,7 @@ import { Dimensions, Platform, StatusBar } from 'react-native';
 
 export const isIOS = () => Platform.OS === 'ios'
 && !Platform.isPad
-&& !Platform.isTVOS;
+&& !Platform.isTV;
 
 export const isIphoneX = () => {
   const { width, height } = Dimensions.get('window');

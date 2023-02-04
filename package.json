@@ -1,6 +1,6 @@
 {
   "name": "@dsdev/react-native-iphone-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test",
   "main": "src/index",
   "react-native": "src/index",
@@ -46,7 +46,7 @@
     "react-native": "0.68.2",
     "react-native-builder-bob": "^0.18.3",
     "release-it": "^15.0.0",
-    "typescript": "^4.5.2"
+    "typescript": "*"
   },
   "resolutions": {
     "@types/react": "17.0.21"
